@@ -882,6 +882,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [AgentPatch: Coarse-to-Fine Weak-Task Repair for Merging Agentic Multimodal Large Language Models](https://arxiv.org/pdf/2608.06699)| 2026 | Arxiv | Qwen2.5-VL-7B, MMSearch-R1-7B, GUI-Owl-7B, DeepEyes-7B
   | [Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging](https://arxiv.org/pdf/2606.01717)| 2026 | ICML | Qwen2.5-VL-3B
   | [PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging](https://arxiv.org/pdf/2604.22823)| 2026 | Arxiv | LLaVA1.5-7B
   | [Reasoning Resides in Layers: Restoring Temporal Reasoning in Video-Language Models with Layer-Selective Merging](https://arxiv.org/pdf/2604.11399)| 2026 | Arxiv |  LongVA-7B, InternVL3-8B, Qwen3-VL-4B
