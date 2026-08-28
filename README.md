@@ -343,6 +343,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Escaping Low-Dimensional Overlap: Multi-Task Model Merging via High-Dimensional Sparse Disentanglement](https://arxiv.org/pdf/2608.25354)| 2026 | Arxiv | Qwen2.5-1.5B and Qwen2.5-7B
 | [CORAM: Coherent Orthogonal Rotation for Model Merging](https://arxiv.org/pdf/2608.17366)| 2026 | Arxiv | Llama3.2-3B, Llama-3.1-8B, Qwen2.5-VL-7B-Instruct, Gemma-2-9B
 | [SWIM-merging: Reweighting singular values of weight matrices for efficient test-time model merging](https://www.sciencedirect.com/science/article/pii/S0925231226022216)| 2026 |Neurocomputing
 | [CABS+: Efficient and Scalable Model Merging via Conflict-Aware Sparsification and Adaptive Weight Allocation](https://arxiv.org/pdf/2608.12842)| 2026 | Arxiv |Mistral-7B-v0.1, WildMarcoroni-Variant1-7B and WestSeverus7B-DPO-v2
@@ -1267,6 +1268,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [When Privacy Hurts Mergeability: Geometry-Aware Model Merging under Differential Privacy](https://arxiv.org/pdf/2608.26655)| 2026 |  Arxiv 
 | [DiffSafeMerge: Mitigating Backdoor Inheritance in Diffusion Model Merging](https://arxiv.org/pdf/2608.09445)| 2026 |  Arxiv 
 | [Making Open-Source Text LLM Watermarks Durable Against Merging](https://arxiv.org/pdf/2607.20435)| 2026 |  Arxiv |LLAMA-3.1-8B-INSTRUCT, QWEN2.5-3B-INSTRUCT |
 | [From Parameters to Feature Space: Task Arithmetic for Backdoor Mitigation in Model Merging](https://arxiv.org/pdf/2606.12498)| 2026 |  ICML | 
