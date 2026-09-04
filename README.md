@@ -302,6 +302,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Task-Aware Model Merging via Fisher-Weighted Median](https://openreview.net/forum?id=tB6bb0ZosX) | 2026 | TMLR | Llama-3.2-3B, Llama-3.1-8B, CLIP, GPT2 |
 | [HyperFix: Combinatorial Nonlinear Correction for Task Vector Merging](https://arxiv.org/pdf/2608.11499)| 2026 | Arxiv |
 | [EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization](https://arxiv.org/pdf/2605.29295)| 2026 | ICML | Qwen2.5-1.5B, Qwen3-8B
 | [Label-Free Cross-Task LoRA Merging with Null-Space Compression](https://arxiv.org/pdf/2603.26317)| 2026 | Arxiv | LLAMA-3 8B, LLAVA-1.5-7B
