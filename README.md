@@ -302,6 +302,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [CoMerge: Conflict-Driven Preference Optimization for Multi-Task Model Merging](https://arxiv.org/pdf/2609.02273)| 2026 | Arxiv |Llama-3.1-8B-Instruct
 | [Task-Aware Model Merging via Fisher-Weighted Median](https://openreview.net/forum?id=tB6bb0ZosX) | 2026 | TMLR | Llama-3.2-3B, Llama-3.1-8B, CLIP, GPT2 |
 | [HyperFix: Combinatorial Nonlinear Correction for Task Vector Merging](https://arxiv.org/pdf/2608.11499)| 2026 | Arxiv |
 | [EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization](https://arxiv.org/pdf/2605.29295)| 2026 | ICML | Qwen2.5-1.5B, Qwen3-8B
@@ -470,6 +471,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [DARTS: Decoder-Aware Representation Tuning via Surgery for Model Merging](https://arxiv.org/pdf/2608.28547)| 2026 | Arxiv  | Llama2-7B-Instruct (Meta), WizardMath-7B-v1.0, and Llama-2-7B-Code|
 | [SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation](https://arxiv.org/pdf/2412.19098)| 2026 | ICML  | 
 | [FEATCAL: Feature Calibration for Post-Merging Models](https://arxiv.org/pdf/2605.13030)| 2026 | Arxiv  | Llama-3.1-8B-Instruc
 | [MAGIC: Achieving Superior Model Merging via Magnitude Calibration](https://github.com/lyymuwu/MAGIC)| 2025 | Arxiv  |OLMo-3-7B
@@ -546,6 +548,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging](https://arxiv.org/pdf/2608.27518)| 2026 | Arxiv |
 | [An Empirical Study and Theoretical Explanation on Task-Level Model-Merging Collapse](https://arxiv.org/pdf/2603.09463)| 2026 | Arxiv | Qwen2.5-3B, 7B, and 14B, Llama3.1-8B
 | [Trade-offs in Ensembling, Merging and Routing Among Parameter-Efficient Experts](https://arxiv.org/pdf/2603.03535)| 2026 | Arxiv |
 | [Enough is as good as a feast: A Comprehensive Analysis of How Reinforcement Learning Mitigates Task Conflicts in LLMs](https://openreview.net/pdf?id=N4l4Jp50R4)| 2026 | ICLR | Llama-3.2-3B, Llama-3.1-8B, and Mistral-Small-3-24B
@@ -774,7 +777,7 @@ Thanks!
   | [Family Matters: Language Transfer and Merging for Adapting Small LLMs to Faroese](https://arxiv.org/pdf/2510.00810)| 2025 | Arxiv |
   | [Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking](https://arxiv.org/pdf/2509.25712)| 2025 | Arxiv |Mistral-7B, InternVL, Qwen2-VL
   | [The Thinking Spectrum: An Empirical Study of Tunable Reasoning in LLMs through Model Merging](https://arxiv.org/pdf/2509.22034)| 2025 | Arxiv | Qwen3-30B-A3B-Thinking-2507, Qwen3-30B-A3B-Instruct-2507 |
-  | [MLM: Multi-linguistic LoRA Merging](https://openreview.net/attachment?id=VAnFWVbYxG&name=pdf) 2025 | NeurIPS WorkShop | LLaMA-3.2 (1B and 3B)
+  | [MLM: Multi-linguistic LoRA Merging](https://openreview.net/attachment?id=VAnFWVbYxG&name=pdf) |2025 | NeurIPS WorkShop | LLaMA-3.2 (1B and 3B)
   | [Model Merging Scaling Laws in Large Language Models](https://arxiv.org/pdf/2509.24244)| 2025 | Arxiv | Qwen2.5 0.5, 1.5, 3, 7, 14, 32, 72B
   | [Harnessing Optimization Dynamics for Curvature-Informed Model Merging](https://arxiv.org/pdf/2509.11167)| 2025 |  Arxiv | Llama-3.1-8B
   | [Kwai Keye-VL 1.5 Technical Report](https://arxiv.org/pdf/2509.01563)| 2025 |  Arxiv |Keye-VL-8B
